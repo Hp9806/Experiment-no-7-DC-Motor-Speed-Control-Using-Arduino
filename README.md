@@ -57,11 +57,12 @@ void loop()
   
 }
 
-~~~
+```
 
-### OUTPUT
+### OUTPUT 
 
 ![](1.png)
+
 
 ### RESULTS AND DISCUSSION 
 
